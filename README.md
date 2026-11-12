@@ -1,3 +1,8 @@
+💫 Hi 👋, I'm Qetmeer Shehzad
+
+MERN Stack Developer | Generative AI & Agentic AI Enthusiast | Computer Science Student (Cyber Security)
+
+📧 Email Me: qitmeershehzad@gmail.com for collaborations, projects, technical discussions, or anything interesting!
 # 💫 About Me:
 🔭 **I’m currently working on**  <br>Building full-stack web applications using the MERN Stack, exploring Generative AI, AI-powered applications, and Agentic AI workflows. Currently improving my problem-solving and software development skills through real-world projects.<br><br>👯 **I’m looking to collaborate on**  <br>MERN Stack projects, AI-powered applications, open-source projects, SaaS products, and innovative developer tools.<br><br>🤝 **I’m looking for help with**  <br>System design, backend architecture, scalable applications, AI integration, cloud deployment, and building production-ready software.<br><br>🌱 **I’m currently learning**  <br>- Generative AI & Agentic AI<br>- Advanced MERN Stack Development<br>- Python & AI/ML fundamentals<br>- C and C++ programming<br>- Docker & Containerization<br>- Cloud Computing (AWS, Microsoft Azure & Google Cloud)<br>- Cybersecurity & Kali Linux<br><br>💬 **Ask me about**  <br>MERN Stack, React.js, Node.js, Express.js, MongoDB, JavaScript, C, C++, Python, Generative AI, Chatbot Development, WordPress, and Web Development.<br><br>⚡ **Fun fact**  <br>I'm a Commerce-to-Computer Science student who turned curiosity about technology into a journey of coding, building projects, and exploring AI!
 
